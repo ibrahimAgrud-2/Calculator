@@ -36,3 +36,9 @@ If you downloaded this project from the internet (e.g., from GitHub), Windows mi
 
 ## Screenshots
 ![](1.png)
+
+![](2.png)
+
+
+![](3.png)
+
