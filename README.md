@@ -35,10 +35,9 @@ If you downloaded this project from the internet (e.g., from GitHub), Windows mi
 5. Finally, double-click the `.sln` file in the folder to open the project in Visual Studio.
 
 ## Screenshots
-![](1.png)
-
-![](2.png)
-
 
 ![](3.png)
 
+![](1.png)
+
+![](2.png)
