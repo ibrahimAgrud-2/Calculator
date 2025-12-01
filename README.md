@@ -34,6 +34,4 @@ If you downloaded this project from the internet (e.g., from GitHub), Windows mi
 
 5. Finally, double-click the `.sln` file in the folder to open the project in Visual Studio.
 
-## Notes
-❗This application may contain bugs or errors
-
+## Screenshots
